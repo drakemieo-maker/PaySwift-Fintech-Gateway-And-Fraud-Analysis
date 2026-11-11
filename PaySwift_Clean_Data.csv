@@ -1,0 +1,26 @@
+Tx_ID,Tx_Timestamp,Merchant_ID,Customer_ID,Payment_Channel,Customer_Bank,Amount_Naira,Tx_Status,Error_Code,Processing_Seconds,Merchant_Name,Industry,Account_Tier
+PTX01,"2026-10-01 08:15:00",M01,C101,Card,GTBank,85000,Success,None,3,"Jumia Electronics Hub",E-Commerce,Enterprise
+PTX02,"2026-10-01 08:20:00",M02,C102,"Bank Transfer",OPay,6500,Success,None,2,"ChowNow Food Delivery","Logistics & Food",Enterprise
+PTX03,"2026-10-01 09:05:00",M02,C103,USSD,FirstBank,4500,Failed,Bank_Timeout,45,"ChowNow Food Delivery","Logistics & Food",Enterprise
+PTX04,"2026-10-01 09:12:00",M03,C999,Card,Access,50000,Declined_Fraud,Suspected_Card_Testing,2,"NaijaBet Gaming","Gaming & Betting",High-Risk
+PTX05,"2026-10-01 09:13:00",M03,C999,Card,Access,50000,Declined_Fraud,Suspected_Card_Testing,2,"NaijaBet Gaming","Gaming & Betting",High-Risk
+PTX06,"2026-10-01 09:14:00",M03,C999,Card,Access,50000,Declined_Fraud,Suspected_Card_Testing,1,"NaijaBet Gaming","Gaming & Betting",High-Risk
+PTX07,"2026-10-01 10:30:00",M01,C104,"Bank Transfer",Zenith,120000,Success,None,4,"Jumia Electronics Hub",E-Commerce,Enterprise
+PTX08,"2026-10-01 11:00:00",M04,C105,USSD,FirstBank,18000,Failed,Bank_Timeout,52,"Lagos Fashion Vault",Retail,SME
+PTX09,"2026-10-01 11:45:00",M05,C106,Card,GTBank,12500,Success,None,3,"QuickMart Supermarket",Groceries,SME
+PTX10,"2026-10-01 12:10:00",M02,C107,USSD,Access,5500,Failed,Bank_Timeout,38,"ChowNow Food Delivery","Logistics & Food",Enterprise
+PTX11,"2026-10-01 12:30:00",M01,C108,Card,Zenith,95000,Failed,Insufficient_Funds,4,"Jumia Electronics Hub",E-Commerce,Enterprise
+PTX12,"2026-10-01 13:00:00",M02,C109,"Bank Transfer",OPay,8000,Success,None,1,"ChowNow Food Delivery","Logistics & Food",Enterprise
+PTX13,"2026-10-01 13:20:00",M04,C110,"Bank Transfer",GTBank,32000,Success,None,3,"Lagos Fashion Vault",Retail,SME
+PTX14,"2026-10-01 14:05:00",M05,C111,USSD,FirstBank,9500,Failed,Bank_Timeout,60,"QuickMart Supermarket",Groceries,SME
+PTX15,"2026-10-01 14:50:00",M03,C112,"Bank Transfer",OPay,15000,Success,None,2,"NaijaBet Gaming","Gaming & Betting",High-Risk
+PTX16,"2026-10-01 15:10:00",M01,C113,Card,GTBank,210000,Success,None,4,"Jumia Electronics Hub",E-Commerce,Enterprise
+PTX17,"2026-10-01 15:40:00",M02,C114,USSD,Zenith,7200,Success,None,8,"ChowNow Food Delivery","Logistics & Food",Enterprise
+PTX18,"2026-10-01 16:00:00",M04,C888,Card,Zenith,75000,Declined_Fraud,Suspected_Card_Testing,2,"Lagos Fashion Vault",Retail,SME
+PTX19,"2026-10-01 16:01:00",M04,C888,Card,Zenith,75000,Declined_Fraud,Suspected_Card_Testing,2,"Lagos Fashion Vault",Retail,SME
+PTX20,"2026-10-01 16:30:00",M05,C115,"Bank Transfer",OPay,14000,Success,None,1,"QuickMart Supermarket",Groceries,SME
+PTX21,"2026-10-01 17:00:00",M02,C116,USSD,FirstBank,6000,Failed,Bank_Timeout,49,"ChowNow Food Delivery","Logistics & Food",Enterprise
+PTX22,"2026-10-01 17:30:00",M01,C117,"Bank Transfer",GTBank,150000,Success,None,3,"Jumia Electronics Hub",E-Commerce,Enterprise
+PTX23,"2026-10-01 18:00:00",M03,C118,Card,Access,25000,Success,None,3,"NaijaBet Gaming","Gaming & Betting",High-Risk
+PTX24,"2026-10-01 18:45:00",M05,C119,Card,FirstBank,19000,Failed,Bank_Timeout,42,"QuickMart Supermarket",Groceries,SME
+PTX25,"2026-10-01 19:15:00",M02,C120,"Bank Transfer",OPay,9000,Success,None,1,"ChowNow Food Delivery","Logistics & Food",Enterprise
